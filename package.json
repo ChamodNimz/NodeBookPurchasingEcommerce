@@ -1,0 +1,23 @@
+{
+  "name": "ebookpurchase",
+  "version": "1.0.0",
+  "description": "assignment eat me",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChamodNimz AKA Chazz",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "js-base64": "^3.7.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.10",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0"
+  }
+}
